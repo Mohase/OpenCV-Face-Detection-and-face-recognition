@@ -6,7 +6,7 @@ import numpy as np
 people = ['David Beckham', 'Cristiano Ronaldo', 'Jason Statham']
 
 # Make a variable for the base folder
-DIR = '/Users/mohammadasender/Desktop/Faces_celebs'
+DIR = '/Users//Desktop/Faces_celebs'
 
 # Load the model CascadeClassifier
 
