@@ -18,7 +18,7 @@ face_recognizer = cv.face.LBPHFaceRecognizer_create()
 face_recognizer.read('face_trained.yml')
 
 # Load validation image (Jason Statham)
-img = cv.imread('/Users/mohammadasender/Desktop/images-1.jpeg')
+img = cv.imread('/Users//Desktop/images-1.jpeg')
 
 # Turn to grayscale
 gray = cv.cvtColor(img, cv.COLOR_BGR2GRAY)
